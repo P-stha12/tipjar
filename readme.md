@@ -31,6 +31,8 @@ Tipping
 
 Chatbot
 
+![Roadmap](./userflow.png)
+
 
 ## Getting Started
 
