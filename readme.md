@@ -26,7 +26,6 @@ https://www.youtube.com/watch?v=DSziYluy5Xo
 1. Creates an account.
 2. Searches for delivery person.
 3. Tips him/her using card or paypal.
-4. 
 
 ## Description
 
