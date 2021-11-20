@@ -57,6 +57,6 @@ http://etip.educationhost.cloud/
  ## Authors
 
 <a href="https://github.com/StarAtNyte/tipjar/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+  <img src="https://contributors-img.web.app/image?repo=StarAtNyte/tipjar" />
 </a>
 
