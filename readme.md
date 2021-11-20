@@ -26,7 +26,9 @@ There is also a chatbot made using IBM Watson that answers people's query regard
 The project currently has the following features.
 
 Tip Jar Creation
+
 Tipping
+
 Chatbot
 
 
