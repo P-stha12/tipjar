@@ -10,6 +10,8 @@ Tip Jar is an online tipping system whereby, delivery workers can create a tip j
 
 ## Demo Video
 
+https://www.youtube.com/watch?v=DSziYluy5Xo
+
 ## Userflow
 
 
@@ -22,20 +24,20 @@ There is also a chatbot made using IBM Watson that answers people's query regard
 
 The project currently has the following features.
 
-Feature 1
-Feature 2
-Feature 3
+Tip Jar Creation
+Tipping
+Chatbot
 
 
 ## Getting Started
 
+For running this project you just need to clone the repository, create a database and add the database credentials in the .env file .
 
 ## Live Demo
-
+http://etip.educationhost.cloud/
 
 ## Built with
+ IBM Watson
+ Laravel
+ Mysql
  
-
-
-## License
-
