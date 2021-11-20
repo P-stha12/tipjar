@@ -31,18 +31,24 @@ Tipping
 
 Chatbot
 
-![Workflow](./workflow.png)
-
 
 ## Getting Started
 
-For running this project you just need to clone the repository, create a database and add the database credentials in the .env file .
+For running this project you just need to
+
+1. Clone the repository
+2. Create a database
+3. Put in the database credentials in the .env file
 
 ## Live Demo
+The project is hosted live at
 http://etip.educationhost.cloud/
 
 ## Built with
- IBM Watson
- Laravel
- Mysql
  
+ Laravel - Web framework
+ 
+ Mysql - for database
+ 
+ IBM Watson- for chatbot
+
