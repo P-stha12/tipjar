@@ -1,4 +1,4 @@
-## Tip Jar - An Online Tipping System
+# Tip Jar - An Online Tipping System
 
 ![Logo](./tipjar.png)
 
@@ -16,13 +16,13 @@ https://www.youtube.com/watch?v=DSziYluy5Xo
 ## Userflow
 ![userflow](./userflow.png)
 
-# Delivery Worker
+### Delivery Worker
 1. Creates an account.
 2. Creates a tip jar providing all information.
 3. Waits for the admin to approve.
 4. Connects his cardor paypal account.
 
-# Tip Provider
+### Tip Provider
 1. Creates an account.
 2. Searches for delivery person.
 3. Tips him/her using card or paypal.
