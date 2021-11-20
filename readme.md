@@ -53,4 +53,10 @@ http://etip.educationhost.cloud/
  Mysql - for database
  
  IBM Watson- for chatbot
+ 
+ ## Authors
+
+<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+</a>
 
