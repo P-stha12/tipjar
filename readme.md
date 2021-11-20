@@ -31,6 +31,8 @@ Tipping
 
 Chatbot
 
+![Workflow](./workflow.png)
+
 
 ## Getting Started
 
