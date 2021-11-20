@@ -2,10 +2,10 @@
 
 ![Logo](./tipjar.png)
 
-## What's the problem?
+## The Problem
 Since everything is going online, delivery people are not getting the tips they used to get previously. Tips can be a major addition to a delivery person but as people pay for the things online, they donot even remember tipping their delivery person.
 
-## The idea
+## The Solution
 Tip Jar is an online tipping system whereby, delivery workers can create a tip jar and the people who order goods can tip them with ease even when they have no cash in hands.
 
 ## Demo Video
@@ -23,13 +23,13 @@ There is also a chatbot made using IBM Watson that answers people's query regard
 
 ## Project roadmap
 
-The project currently has the following features.
+The project currently has the following features:
 
-Tip Jar Creation
+1. Tip Jar Creation for Delivery workers
 
-Tipping
+2. Tipping system for other users
 
-Chatbot
+3. Chatbot made using IBM Watson
 
 ![Roadmap](./workflow.png)
 
