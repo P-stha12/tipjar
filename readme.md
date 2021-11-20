@@ -1,5 +1,7 @@
 ## Tip Jar - An Online Tipping System
 
+![Logo](./tipjar.png)
+
 ## What's the problem?
 Since everything is going online, delivery people are not getting the tips they used to get previously. Tips can be a major addition to a delivery person but as people pay for the things online, they donot even remember tipping their delivery person.
 
