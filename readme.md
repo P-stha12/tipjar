@@ -10,7 +10,7 @@ Tip Jar is an online tipping system whereby, delivery workers can create a tip j
 
 ## Demo Video
 
-[![Watch the video](https://github.com/StarAtNyte/tipjar/thumbnail.png)](https://www.youtube.com/watch?v=DSziYluy5Xo)
+[![Watch the video](./thumbnail.png)](https://www.youtube.com/watch?v=DSziYluy5Xo)
 
 ## Userflow
 
