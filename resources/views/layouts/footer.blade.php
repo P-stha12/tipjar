@@ -109,6 +109,19 @@
         itemSelector : '.box-campaign-item'
     });*/
 </script>
+<script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "24c99d2b-403d-4bfd-b9fc-c7923a91e9c8", // The ID of this integration.
+    region: "us-south", // The region your integration is hosted in.
+    serviceInstanceID: "6954f33d-db37-4d2d-9bb9-ba0f16d0af14", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>
 @yield('page-js')
 
 @if(get_option('additional_js') && get_option('additional_js') !== 'additional_js')
