@@ -1,40 +1,39 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Tip Jar - An Online Tipping System
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## What's the problem?
+Since everything is going online, delivery people are not getting the tips they used to get previously. Tips can be a major addition to a delivery person but as people pay for the things online, they donot even remember tipping their delivery person.
 
-## About Laravel
+## The idea
+Tip Jar is an online tipping system whereby, delivery workers can create a tip jar and the people who order goods can tip them with ease even when they have no cash in hands.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+## Demo Video
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Userflow
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## Learning Laravel
+## Description
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+Delivery people work day and night to ensure that our needs are met on time. As a result, it is our job to recognize their distress and aid them in any way we can. Giving them a tip is a fantastic approach to make their experience more enjoyable while also assisting them financially. Though we may consider a single tip to be little, these single tips from everyone might add up to a substantial number for them. However, as everything has gone online, the tradition of tipping is progressively fading. People pay the price for the things they deliver online and, at times, there is no interaction between them and the delivery person. Though it seems to be good for people as they do not have cash in hand nowadays, it is saddening for those delivery workers. Thus we have made Tip Jar. Tip jar is an online tipping system where people can search for delivery workers either from service or their name and id and provide them with a tip. Delivery workers need to create a tip jar for collecting tips providing useful information and need to connect either a card or their PayPal account for withdrawal. The person providing a tip can choose to tip anonymously or provide his name. Tip Jar hereby, is trying to help our everyday heroes who are working 24/7 for us.
+There is also a chatbot made using IBM Watson that answers people's query regarding the tipping system , tip jars and provides facts about delivery people.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+## Project roadmap
 
-## Contributing
+The project currently has the following features.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Feature 1
+Feature 2
+Feature 3
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Getting Started
+
+
+## Live Demo
+
+
+## Built with
+ 
+
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
